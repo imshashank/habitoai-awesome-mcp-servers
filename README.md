@@ -66,6 +66,7 @@ A curated list of Model Context Protocol (MCP) servers and tools. MCP is an open
 - [Alibaba Cloud Tablestore MCP Server](https://github.com/aliyun/alibabacloud-tablestore-mcp-server) - Connects Alibaba Cloud Tablestore to large language models via the Model Context Protocol
 - [Amazon Bedrock Nova Canvas](https://github.com/zxkane/mcp-server-amazon-bedrock) - Model Context Procotol(MCP) server for using Amazon Bedrock Nova Canvas to generate images
 - [AnyChat Completions MCP](https://github.com/pyroprompts/any-chat-completions-mcp) - Integrates various AI chat APIs (OpenAI, Perplexity, etc.) with Claude via the Model Context Protocol
+- [API.market MCP Gateway](https://api.market/mcp) - Hosted Streamable HTTP gateway for discovering and calling 580+ APIs through five tools, with OAuth or API-key authentication and per-API pricing.
 - [APISIX MCP Bridge](https://github.com/api7/apisix-mcp) - APISIX Model Context Protocol (MCP) server is used to bridge large language models (LLMs) with the APISIX Admin API.
 - [Baidu AI Search](https://github.com/baidubce/app-builder/tree/master/python/mcp_server/ai_search) - appbuilder-sdk, 千帆AppBuilder-SDK帮助开发者灵活、快速的搭建AI原生应用
 - [Base MCP](https://github.com/base/base-mcp) - Provides onchain tools for AI applications to interact with the Base Network and Coinbase API
